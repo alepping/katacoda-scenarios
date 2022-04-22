@@ -1,0 +1,27 @@
+{
+  "title": "NebulaStream",
+  "description": "Experience the IoT data management platform NebulaStream in a smart city environment.",
+  "difficulty": "Beginner",
+  "time": "20",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal-iframe"
+  },
+  "backend": {
+    "imageid": "kubernetes",
+    "port": "3000"
+  }
+}
